@@ -1,0 +1,12 @@
+1) What is Hadoop and its use?
+2) MapReduce : Distributed Processing   
+3) HDFS : File System (Stores data)            
+4) HBase : NoSql Database
+5) ODBC, Rest, Sqoop : Data Integration
+7) PIG : Scripting
+8) Mahout : Machine Learning 
+9) Hive: Query
+10) ZooKeeper :Co-ordination
+11) Oozie : Workflow and Scheduling
+12) Ambari : Management and Monitoring 
+13) 
